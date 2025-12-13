@@ -28,7 +28,7 @@ const About = () => {
             <Arrow />
             <p>
               I'm an MSc student at <span className="about-colored-text"> UCL (University College London)</span>. I'm
-              acquiring a broad range of skills, from People & Security (GRC) to Financial Market Modelling & Analysis.
+              acquiring a broad range of skills, from Requirements Engineering to Financial Market Modelling & Analysis.
             </p>
           </div>
 

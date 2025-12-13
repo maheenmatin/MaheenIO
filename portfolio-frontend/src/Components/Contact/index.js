@@ -55,7 +55,7 @@ const Contact = () => {
 
           <p>
             Feel free to reach out with any professional enquiries! I am particularly interested in graduate
-            roles for business analysis. <span className="contact-colored-text">Let's connect!</span>
+            roles for software engineering. <span className="contact-colored-text">Let's connect!</span>
           </p>
 
           <div className="contact-form">
