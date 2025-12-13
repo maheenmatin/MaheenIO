@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# MaheenIO - Live Portfolio Website
 
 Portfolio website showcasing personal projects, professional experience and technical skills
 
@@ -11,7 +11,7 @@ Portfolio website showcasing personal projects, professional experience and tech
 - Cloudflare Pages
 
 ## Link
-- (https://maheenmatin.com)
+- [maheenmatin.com](https://maheenmatin.com)
 
 ## Usage & Features
 - Home screen / landing page
@@ -22,7 +22,7 @@ Portfolio website showcasing personal projects, professional experience and tech
 
 ## Screenshots
 
-![](Screenshots/1.png)
-![](Screenshots/2.png)
-![](Screenshots/3.png)
-![](Screenshots/4.png)
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
