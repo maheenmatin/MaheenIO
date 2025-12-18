@@ -1,28 +1,28 @@
-# Personal Portfolio Website
+# MaheenIO - Live Portfolio Website
 
-Portfolio website showcasing personal projects, professional experience and technical skills
+Lightweight, responsive portfolio site that highlights projects, experience, and skills, with contact section and interactive map.
 
-- React
-- JavaScript
-- SCSS
-- Leaflet
-- Mailchimp
-- GitHub Actions
-- Cloudflare Pages
+## Live Link
+- [maheenmatin.com](https://maheenmatin.com)
 
-## Link
-- (https://maheenmatin.com)
+## Tech stack
+- **Frontend:** React, JavaScript, SCSS  
+- **Contact & map:** Mailchimp, Leaflet  
+- **CI/CD & hosting:** GitHub Actions, Cloudflare Pages
 
-## Usage & Features
+## Features
 - Home screen / landing page
-- "About" section
-- "Projects" section with links to GitHub repositories
-- "Contact" section with Mailchimp form and Leaflet map
+- About section
+- Projects section with links to GitHub repositories
+- Contact section with Mailchimp form and Leaflet map
 - External links to GitHub profile and LinkedIn
 
 ## Screenshots
 
-![](Screenshots/1.png)
-![](Screenshots/2.png)
-![](Screenshots/3.png)
-![](Screenshots/4.png)
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
+
+## License
+All rights reserved
