@@ -2,19 +2,19 @@
   "portfolio": [
     {
       "cover": "redditClone.png",
-      "title": "PostIt - Reddit Clone",
+      "title": "PostIt",
       "description": "Angular, Spring Boot, MySQL",
       "url": "https://github.com/maheenmatin/PostIt"
     },
     {
       "cover": "portfolioProject.png",
-      "title": "Personal Portfolio Website",
+      "title": "MaheenIO",
       "description": "React, JavaScript, SCSS",
       "url": "https://github.com/maheenmatin/Portfolio"
     },
     {
       "cover": "gameProject.png",
-      "title": "Where Am I?",
+      "title": "WhereAmI?",
       "description": "Java, Swing, JBox2D",
       "url": "https://github.com/maheenmatin/WhereAmI"
     }
