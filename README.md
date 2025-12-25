@@ -3,7 +3,7 @@
 Lightweight, responsive portfolio site that highlights projects, experience, and skills, with contact section and interactive map.
 
 ## Live Link
-- [maheenmatin.com](https://maheenmatin.com)
+[maheenmatin.com](https://maheenmatin.com)
 
 ## Tech stack
 - **Frontend:** React, JavaScript, SCSS  
